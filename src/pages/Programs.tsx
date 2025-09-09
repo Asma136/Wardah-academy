@@ -16,7 +16,7 @@ const Programs = () => {
         "Memory strengthening exercises",
         "Regular review sessions"
       ],
-      paystackLink: "https://paystack.com" // Replace with actual Paystack link
+      paystackLink: "https://paystack.com/pay/wardah1" // Replace with actual Paystack link
     },
     {
       title: "Tajweed & Recitation",
@@ -31,7 +31,7 @@ const Programs = () => {
         "Correction and feedback",
         "Beautiful recitation training"
       ],
-      paystackLink: "https://paystack.com" // Replace with actual Paystack link
+      paystackLink: "https://paystack.com/pay/wardah1" // Replace with actual Paystack link
     },
     {
       title: "Islamic Studies",
@@ -46,7 +46,7 @@ const Programs = () => {
         "Contemporary Islamic issues",
         "Islamic ethics and morals"
       ],
-      paystackLink: "https://paystack.com/pay/wardahacademy" // Replace with actual Paystack link
+      paystackLink: "https://paystack.com/pay/wardah1" // Replace with actual Paystack link
     }
   ];
 
