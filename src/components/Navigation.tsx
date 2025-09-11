@@ -52,7 +52,7 @@ const Navigation = () => {
             </Button>
 
             <Button asChild variant="secondary" size="sm" className="ml-4">
-              <Link to="https://portal.wardahacademy.com/">Student Portal</Link>
+              <Link to="https://portal.wardahacademy.com/">Portal</Link>
             </Button>
           </div>
 
