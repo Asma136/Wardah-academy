@@ -50,6 +50,10 @@ const Navigation = () => {
             <Button asChild variant="secondary" size="sm" className="ml-4">
               <Link to="/admissions">Enroll Now</Link>
             </Button>
+
+            <Button asChild variant="secondary" size="sm" className="ml-4">
+              <Link to="https://portal.wardahacademy.com/">Student Portal</Link>
+            </Button>
           </div>
 
           {/* Mobile menu button */}

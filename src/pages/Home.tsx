@@ -172,6 +172,8 @@ const Home = () => {
           >
             <a href="/admissions">Enroll Now</a>
           </Button>
+
+         
         </div>
       </section>
     </div>
