@@ -59,7 +59,7 @@ const Contact = () => {
                     
                     </p>
                     <p className="text-card-foreground/80 mb-2">
-                      wardahacademy7@gmail.com
+                      info@wardahacademy.com
                     </p>
                   </div>
                 </div>
